@@ -1,0 +1,20 @@
+task_id	hash	name	status	realtime	%cpu	rss	peak_rss	vmem	peak_vmem	rchar	wchar
+6	a8/19cdc7	to_lst (1)	COMPLETED	179ms	75.5%	3.3 MB	3.3 MB	7.7 MB	7.7 MB	1.4 MB	4.1 KB
+7	b7/1ff38f	run_panacota (1)	COMPLETED	42.5s	132.1%	404.8 MB	404.8 MB	1.2 GB	1.3 GB	407.3 MB	506.1 MB
+2	f0/84ab4d	run_panta (1)	COMPLETED	1m 16s	333.8%	552.1 MB	564 MB	6.6 GB	6.7 GB	1.6 GB	927.8 MB
+8	a6/563890	format_panacota_output (1)	COMPLETED	1s	77.2%	12.7 MB	12.7 MB	28.8 MB	28.8 MB	17.7 MB	7.3 MB
+10	d1/8b3b5a	export (1)	COMPLETED	53ms	26.8%	0	0	0	0	7.5 MB	7.3 MB
+9	53/180482	format_panta_output (1)	COMPLETED	1.1s	92.2%	25.4 MB	25.4 MB	214.6 MB	214.6 MB	28.2 MB	7.3 MB
+11	29/56f22b	export (2)	COMPLETED	19ms	39.1%	0	0	0	0	7.4 MB	7.3 MB
+1	26/39302b	run_panaroo (1)	COMPLETED	8m 58s	349.0%	1.2 GB	1.3 GB	11.4 GB	11.4 GB	3.2 GB	2 GB
+12	9d/f46eb4	format_panaroo_output (1)	COMPLETED	1.2s	77.4%	112.7 MB	127.7 MB	320 MB	340.9 MB	18.6 MB	7.1 MB
+13	93/9a5892	export (3)	COMPLETED	21ms	70.3%	0	0	0	0	7.3 MB	7.1 MB
+4	51/45e439	run_roary (1)	COMPLETED	15m 46s	477.8%	1.4 GB	1.4 GB	1.4 GB	1.4 GB	25.3 GB	2.5 GB
+14	6a/d6833b	format_roary_output (1)	COMPLETED	9.2s	14.9%	107.9 MB	107.9 MB	338.9 MB	338.9 MB	23.5 MB	7.6 MB
+15	42/d9107f	export (4)	COMPLETED	92ms	19.9%	4.7 MB	4.7 MB	18.7 MB	18.7 MB	7.8 MB	7.6 MB
+3	14/b8a93c	run_peppan (1)	COMPLETED	26m 53s	585.7%	6 GB	6.7 GB	32.9 GB	33.7 GB	1.3 TB	17.1 GB
+16	43/cc3aa0	format_peppan_output (1)	COMPLETED	2.4s	91.0%	180.8 MB	261.5 MB	420 MB	476.5 MB	86 MB	7 MB
+17	7a/28cf51	export (5)	COMPLETED	48ms	35.2%	0	0	0	0	7.2 MB	7 MB
+5	80/1bf358	run_panX (1)	COMPLETED	1h 37m 6s	290.2%	7.9 GB	9.3 GB	17.7 GB	19.1 GB	15.4 GB	7.6 GB
+18	37/f7acdd	format_panX_output (1)	COMPLETED	3s	42.6%	139.4 MB	139.4 MB	349.9 MB	349.9 MB	31.1 MB	7 MB
+19	45/4a140b	export (6)	COMPLETED	36ms	22.6%	0	0	0	0	7.1 MB	7 MB

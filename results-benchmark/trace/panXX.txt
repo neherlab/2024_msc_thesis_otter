@@ -1,0 +1,26 @@
+name 	realtime	peak_rss	dataset
+panXX	1h 7m 57s	8.014 GB	100
+panXX	1h 57s	8.014 GB	100
+panXX	1h 6m 12s	8.014 GB	100
+panXX	1h 2m 37s	8.014 GB	100
+panXX	1h 3m 25s	8.013 GB	100
+panXX	1h 21m 57s	8.015 GB	200
+panXX	1h 21m 9s	5.241 GB	200
+panXX	1h 28m 12s	8.013 GB	200
+panXX	1h 12m 47s	5.218 GB	200
+panXX	1h 26m 47s	5.189 GB	200
+panXX	1h 49m 27s	8.062 GB	300
+panXX	1h 47m 33s	8.050 GB	300
+panXX	1h 48m 45s	7.747 GB	300
+panXX	1h 53m 34s	8.058 GB	300
+panXX	1h 41m 22s	8.015 GB	300
+panXX	3h 41m 28s	10.36 GB	400
+panXX	3h 40m 37s	10.32 GB	400
+panXX	3h 23m 42s	10.33 GB	400
+panXX	3h 36m 2s 	10.28 GB	400
+panXX	3h 33m 38s	10.29 GB	400
+panXX	13h 21m 54s	12.83 GB	500
+panXX	12h 51m 56s	12.84 GB	500
+panXX	12h 39m 19s	12.85 GB	500
+panXX	11h 53m 14s	12.87 GB	500
+panXX	13h 25m 4s	12.88 GB	500

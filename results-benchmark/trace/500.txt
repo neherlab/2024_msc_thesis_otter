@@ -1,0 +1,84 @@
+task_id	hash	name	status	realtime	%cpu	rss	peak_rss	vmem	peak_vmem	rchar	wchar
+6	31/091f18	to_lst (1)	COMPLETED	416ms	79.7%	1.5 MB	1.5 MB	110.6 MB	110.6 MB	1 MB	11.9 KB
+12	7e/4099df	to_lst (2)	COMPLETED	511ms	82.3%	1.5 MB	1.5 MB	110.6 MB	110.6 MB	1 MB	11.9 KB
+18	4e/55d2e3	to_lst (3)	COMPLETED	535ms	78.7%	1.5 MB	1.5 MB	110.6 MB	110.6 MB	1 MB	11.9 KB
+24	aa/03fed2	to_lst (4)	COMPLETED	539ms	79.7%	1.5 MB	1.5 MB	110.6 MB	110.6 MB	1 MB	11.9 KB
+30	65/8e1322	to_lst (5)	COMPLETED	518ms	82.9%	1.5 MB	1.5 MB	110.6 MB	110.6 MB	1 MB	11.9 KB
+32	be/f2a373	run_panacota (2)	COMPLETED	3m 1s	161.1%	3.1 GB	3.2 GB	13.3 GB	13.4 GB	3 GB	3.9 GB
+35	b2/33ac49	run_panacota (5)	COMPLETED	3m 3s	159.2%	3.2 GB	3.3 GB	4.1 GB	4.2 GB	3 GB	3.9 GB
+34	2a/06e470	run_panacota (4)	COMPLETED	3m 7s	160.7%	3.1 GB	3.2 GB	4 GB	4.1 GB	3 GB	3.9 GB
+33	98/58cdb9	run_panacota (3)	COMPLETED	3m 19s	164.0%	3.1 GB	3.2 GB	4.4 GB	4.5 GB	3 GB	3.9 GB
+36	23/5160f0	format_panacota_output (1)	COMPLETED	2.6s	94.3%	413 MB	413 MB	845.3 MB	855.3 MB	61.6 MB	54 MB
+38	f7/ec14a7	format_panacota_output (3)	COMPLETED	2.8s	92.3%	354.4 MB	354.4 MB	802.4 MB	802.4 MB	61.6 MB	54.1 MB
+37	2b/749456	format_panacota_output (2)	COMPLETED	2.9s	91.7%	307.7 MB	307.7 MB	738.3 MB	738.3 MB	63.4 MB	54 MB
+42	6f/45ba59	export (3)	COMPLETED	160ms	29.2%	1.4 MB	1.4 MB	110.6 MB	110.6 MB	54.1 MB	54.1 MB
+40	25/8eae64	export (1)	COMPLETED	140ms	26.5%	6.2 MB	6.2 MB	233 MB	233 MB	54 MB	54 MB
+41	03/b52b6f	export (2)	COMPLETED	142ms	32.6%	6.2 MB	6.2 MB	233 MB	233 MB	54.1 MB	54 MB
+39	e4/2768b7	format_panacota_output (4)	COMPLETED	2.8s	89.5%	332.9 MB	332.9 MB	772.4 MB	772.4 MB	62.6 MB	54.1 MB
+43	53/5d27c4	export (4)	COMPLETED	147ms	25.4%	6.1 MB	6.1 MB	233 MB	233 MB	54.1 MB	54.1 MB
+31	45/1ad44a	run_panacota (1)	COMPLETED	6m 5s	88.5%	3.1 GB	3.2 GB	9.5 GB	10 GB	3 GB	3.9 GB
+44	e7/63446e	format_panacota_output (5)	COMPLETED	2.8s	89.7%	331.4 MB	331.4 MB	768.2 MB	768.2 MB	62.5 MB	53.9 MB
+45	a9/98e626	export (5)	COMPLETED	82ms	41.5%	0	0	0	0	54 MB	53.9 MB
+28	27/d9b832	run_panta (5)	COMPLETED	12m 46s	299.7%	3 GB	3 GB	20.9 GB	21 GB	11.2 GB	6.2 GB
+46	6b/c8bc8f	format_panta_output (1)	COMPLETED	7.3s	100.3%	1 GB	1.1 GB	1.5 GB	1.5 GB	171.4 MB	55.7 MB
+19	db/0259b7	run_panta (4)	COMPLETED	13m 7s	295.3%	3.1 GB	3.2 GB	25.6 GB	25.6 GB	11.2 GB	6.1 GB
+47	c5/89d475	export (6)	COMPLETED	100ms	44.2%	1.4 MB	1.4 MB	110.6 MB	110.6 MB	55.8 MB	55.7 MB
+9	d2/0311f6	run_panta (2)	COMPLETED	13m 59s	259.5%	2.9 GB	3 GB	11.7 GB	12 GB	11.1 GB	6 GB
+15	74/96fde2	run_panta (3)	COMPLETED	12m 4s	312.2%	3 GB	3.1 GB	38.2 GB	38.3 GB	11.2 GB	6.1 GB
+48	ae/f88b5d	format_panta_output (2)	COMPLETED	7.1s	100.4%	966.9 MB	982.3 MB	1.4 GB	1.4 GB	169.6 MB	55.8 MB
+51	5c/8076d0	export (7)	COMPLETED	92ms	57.4%	1.4 MB	1.4 MB	110.6 MB	110.6 MB	55.8 MB	55.8 MB
+49	2e/fc31bf	format_panta_output (3)	COMPLETED	7.1s	98.9%	939.3 MB	1 GB	1.3 GB	1.5 GB	166.5 MB	55.4 MB
+50	48/4983e3	format_panta_output (4)	COMPLETED	7.2s	99.4%	1019.3 MB	1019.3 MB	1.4 GB	1.4 GB	169.7 MB	55.7 MB
+3	1c/49661c	run_panta (1)	COMPLETED	12m 29s	303.0%	3.3 GB	3.4 GB	11.7 GB	12.1 GB	11.1 GB	6.1 GB
+52	df/32db51	export (8)	COMPLETED	67ms	57.9%	0	0	0	0	55.5 MB	55.4 MB
+53	7c/6b79b0	export (9)	COMPLETED	67ms	47.5%	0	0	0	0	55.8 MB	55.7 MB
+54	46/3fd40e	format_panta_output (5)	COMPLETED	7.2s	99.6%	1 GB	1 GB	1.5 GB	1.5 GB	168.6 MB	55.5 MB
+55	ab/f5455f	export (10)	COMPLETED	75ms	56.2%	0	0	0	0	55.6 MB	55.5 MB
+10	5b/f50cee	run_panaroo (2)	COMPLETED	1h 13m 49s	307.9%	2.8 GB	2.9 GB	14 GB	14.3 GB	22.1 GB	13.1 GB
+56	96/1e7e92	format_panaroo_output (1)	COMPLETED	4.8s	99.6%	683.3 MB	792.4 MB	1.1 GB	1.2 GB	65.3 MB	54.9 MB
+57	0a/cc5f8e	export (11)	COMPLETED	54ms	66.8%	0	0	0	0	55 MB	54.9 MB
+2	92/6e7737	run_panaroo (1)	COMPLETED	1h 18m 44s	305.2%	2.7 GB	3 GB	14 GB	14.4 GB	22.1 GB	13.1 GB
+58	eb/056c42	format_panaroo_output (2)	COMPLETED	4.9s	99.8%	814.7 MB	822.2 MB	1.2 GB	1.2 GB	65.8 MB	55 MB
+59	27/6daab7	export (12)	COMPLETED	71ms	51.1%	1.4 MB	1.4 MB	110.6 MB	110.6 MB	55 MB	54.9 MB
+22	39/774ad0	run_panaroo (4)	COMPLETED	1h 20m 31s	305.2%	3.1 GB	3.1 GB	14.1 GB	14.5 GB	22.2 GB	13.2 GB
+60	cf/1a7344	format_panaroo_output (3)	COMPLETED	5.1s	100.3%	713.9 MB	825.6 MB	1.1 GB	1.2 GB	66 MB	55.2 MB
+61	d3/588c62	export (13)	COMPLETED	60ms	68.4%	0	0	0	0	55.2 MB	55.2 MB
+25	77/a57fa7	run_panaroo (5)	COMPLETED	1h 22m 38s	302.9%	2.8 GB	3 GB	14 GB	14.5 GB	22.2 GB	13.2 GB
+62	60/d8a5a0	format_panaroo_output (4)	COMPLETED	5.2s	99.4%	774.6 MB	836.6 MB	1.2 GB	1.2 GB	66.3 MB	55.1 MB
+63	57/20604d	export (14)	COMPLETED	47ms	75.2%	0	0	0	0	55.2 MB	55.1 MB
+13	8c/ae23e9	run_panaroo (3)	COMPLETED	1h 27m 22s	291.5%	2.9 GB	3 GB	14 GB	14.4 GB	22.2 GB	13.2 GB
+64	11/85e4e9	format_panaroo_output (5)	COMPLETED	5s	100.2%	713.6 MB	826 MB	1.1 GB	1.2 GB	66 MB	55.1 MB
+65	00/101a55	export (15)	COMPLETED	50ms	63.4%	0	0	0	0	55.2 MB	55.1 MB
+21	53/21a7dc	run_roary (4)	COMPLETED	1h 58m 57s	438.0%	10.8 GB	10.8 GB	11.2 GB	11.2 GB	201.5 GB	18.7 GB
+66	68/d4f1a3	format_roary_output (1)	COMPLETED	7.2s	97.8%	1.1 GB	1.3 GB	1.6 GB	1.7 GB	125 MB	57 MB
+67	f7/973315	export (16)	COMPLETED	74ms	54.8%	0	0	0	0	57.1 MB	57 MB
+1	70/c02ce3	run_roary (1)	COMPLETED	2h 11s	429.6%	10.8 GB	10.8 GB	11.1 GB	11.1 GB	200.9 GB	18.7 GB
+68	7b/70db35	format_roary_output (2)	COMPLETED	7.1s	99.8%	1.1 GB	1.3 GB	1.5 GB	1.7 GB	124.7 MB	56.8 MB
+69	53/cd4318	export (17)	COMPLETED	65ms	76.7%	0	0	0	0	56.9 MB	56.8 MB
+26	ae/891854	run_roary (5)	COMPLETED	2h 1m 27s	439.0%	10.9 GB	10.9 GB	11.2 GB	11.2 GB	201.3 GB	18.8 GB
+70	e5/adf66a	format_roary_output (3)	COMPLETED	7.2s	98.9%	1.2 GB	1.3 GB	1.6 GB	1.7 GB	127.5 MB	57.1 MB
+71	0c/736537	export (18)	COMPLETED	47ms	97.3%	0	0	0	0	57.1 MB	57.1 MB
+14	eb/aba399	run_roary (3)	COMPLETED	2h 2m 20s	432.4%	10.8 GB	10.8 GB	11.2 GB	11.2 GB	201.3 GB	18.7 GB
+72	0c/4a31c9	format_roary_output (4)	COMPLETED	7.1s	99.3%	1.1 GB	1.3 GB	1.5 GB	1.7 GB	125.5 MB	57 MB
+73	e0/94a50e	export (19)	COMPLETED	74ms	56.7%	0	0	0	0	57.1 MB	57 MB
+8	6c/8897e5	run_roary (2)	COMPLETED	2h 4m 42s	402.2%	10.7 GB	10.7 GB	11.1 GB	11.1 GB	201.2 GB	18.7 GB
+74	f2/44ce0a	format_roary_output (5)	COMPLETED	6.9s	99.4%	1.1 GB	1.2 GB	1.5 GB	1.7 GB	121.7 MB	56.7 MB
+75	e7/b7d8a4	export (20)	COMPLETED	48ms	85.0%	0	0	0	0	56.8 MB	56.7 MB
+4	45/1b67bc	run_peppan (1)	COMPLETED	3h 1m 9s	676.7%	23.4 GB	26.2 GB	52.4 GB	53.7 GB	7.4 TB	103.8 GB
+76	05/c7bde4	format_peppan_output (1)	COMPLETED	17.2s	99.4%	1.6 GB	1.6 GB	2.1 GB	2.1 GB	620.6 MB	54.7 MB
+77	cc/02d3a7	export (21)	COMPLETED	46ms	103.2%	0	0	0	0	54.8 MB	54.7 MB
+20	c8/551dc1	run_peppan (4)	COMPLETED	3h 10m 55s	675.5%	23.6 GB	25.7 GB	42.2 GB	44.9 GB	8.5 TB	103.9 GB
+78	91/c1baf5	format_peppan_output (2)	COMPLETED	19.3s	90.0%	1.6 GB	1.6 GB	2.1 GB	2.1 GB	620.7 MB	54.7 MB
+79	e4/961571	export (22)	COMPLETED	45ms	85.3%	0	0	0	0	54.7 MB	54.7 MB
+27	dc/2a207a	run_peppan (5)	COMPLETED	3h 11m 44s	667.1%	24.8 GB	28.7 GB	52.4 GB	53.6 GB	8 TB	105.6 GB
+80	00/ba9a3d	format_peppan_output (3)	COMPLETED	17.6s	97.5%	1.7 GB	1.7 GB	2.1 GB	2.1 GB	619.9 MB	54.7 MB
+81	1a/826cbf	export (23)	COMPLETED	52ms	70.8%	0	0	0	0	54.8 MB	54.7 MB
+16	f8/20952e	run_peppan (3)	COMPLETED	3h 16m 34s	651.9%	23.7 GB	28.5 GB	52.5 GB	53.8 GB	8 TB	104.8 GB
+82	fd/ad834b	format_peppan_output (4)	COMPLETED	17.6s	97.9%	1.7 GB	1.7 GB	2.1 GB	2.1 GB	621.3 MB	54.9 MB
+83	e8/b03349	export (24)	COMPLETED	50ms	90.5%	0	0	0	0	55 MB	54.9 MB
+11	fa/a65df2	run_panX (2)	FAILED	4h 19m 46s	-	-	-	-	-	-	-
+5	41/6368c4	run_panX (1)	FAILED	5h 25m 1s	-	-	-	-	-	-	-
+17	6c/63b8d9	run_panX (3)	FAILED	5h 43m 16s	-	-	-	-	-	-	-
+29	5d/5f61c8	run_panX (5)	FAILED	5h 47m 1s	-	-	-	-	-	-	-
+7	61/08f358	run_peppan (2)	FAILED	5h 59m 21s	-	-	-	-	-	-	-
+23	a7/1ce0d7	run_panX (4)	FAILED	6h 39m 31s	-	-	-	-	-	-	-

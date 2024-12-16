@@ -1,0 +1,8 @@
+name: bioperl-emboss
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - perl-bioperl=1.7.2
+  - emboss=6.6.0

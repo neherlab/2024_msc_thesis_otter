@@ -1,0 +1,7 @@
+name: biopython-click
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - click
+  - biopython
